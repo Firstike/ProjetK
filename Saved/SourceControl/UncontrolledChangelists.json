@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/a.boitel/Desktop/ProjetKAJOUR/ProjetK2/ProjetK 5.1/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Users/a.boitel/Desktop/ProjetKAJOUR/ProjetK2/ProjetK 5.1/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/TT/1N9PLQROEN5PL2P0QTYY3K.uasset",
+				"C:/Users/a.boitel/Desktop/ProjetKAJOUR/ProjetK2/ProjetK 5.1/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/ZC/1L34D2C9ZKKNBST2K5QSJ0.uasset",
+				"C:/Users/a.boitel/Desktop/ProjetKAJOUR/ProjetK2/ProjetK 5.1/Content/__ExternalActors__/TopDown/Maps/TopDownMap/2/LY/AUCJEG249GVQOAAT7ZN52O.uasset",
+				"C:/Users/a.boitel/Desktop/ProjetKAJOUR/ProjetK2/ProjetK 5.1/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/DP/HJZKR3EO48970YNM3JQKOK.uasset",
+				"C:/Users/a.boitel/Desktop/ProjetKAJOUR/ProjetK2/ProjetK 5.1/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/UL/MEQ7OH9XPXC0ON6DL1I0KY.uasset",
+				"C:/Users/a.boitel/Desktop/ProjetKAJOUR/ProjetK2/ProjetK 5.1/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/78/R6KWQOND7TN6QE7OIOV2QS.uasset",
+				"C:/Users/a.boitel/Desktop/ProjetKAJOUR/ProjetK2/ProjetK 5.1/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/01/X7DIKCY0PW5K6WK9FYOWYX.uasset",
+				"C:/Users/a.boitel/Desktop/ProjetKAJOUR/ProjetK2/ProjetK 5.1/Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/KP/BOVDQ7SWUIDS9DQF452XF9.uasset",
+				"C:/Users/a.boitel/Desktop/ProjetKAJOUR/ProjetK2/ProjetK 5.1/Content/Pnj/BP_PNJ.uasset",
+				"C:/Users/a.boitel/Desktop/ProjetKAJOUR/ProjetK2/ProjetK 5.1/Content/Pnj/BB_Pnj.uasset",
+				"C:/Users/a.boitel/Desktop/ProjetKAJOUR/ProjetK2/ProjetK 5.1/Content/Pnj/BT_Pnj.uasset",
+				"C:/Users/a.boitel/Desktop/ProjetKAJOUR/ProjetK2/ProjetK 5.1/Content/Level/Village.umap",
+				"C:/Users/a.boitel/Desktop/ProjetKAJOUR/ProjetK2/ProjetK 5.1/Content/Pnj/BTTask_FindPnjPatroll.uasset"
+			]
+		}
+	]
+}
